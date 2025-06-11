@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi, I’m Edson Mito Kimwaka, an ICT Support Technician with a solid foundation in networking, hardware support, and fiber optic technologies. I hold a Bachelor’s degree in Software Engineering from Kirinyaga University and am currently advancing my skills in Cloud and Network Security through the Cyber Shujaa program.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+With hands-on experience at the Ministry of Education, Kenya Power (KPLC), and Mombasa Law Courts, I’ve supported mission-critical IT environments—handling everything from help desk support to fiber splicing and network device configuration.
+
+I’m passionate about solving technical challenges, continuously learning, and making digital environments more efficient and secure. Whether in the classroom, server room, or field, I bring precision, adaptability, and a strong work ethic.
+
+Let’s connect and build something impactful.
